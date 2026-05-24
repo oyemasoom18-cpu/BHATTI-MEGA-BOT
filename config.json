@@ -23,6 +23,6 @@
   "AI_OWNER_UID": "61563152461743",
   "AI_MODEL": "google/gemini-2.5-flash-lite",
   "AI_ENABLED": true,
-  "AI_API_KEY": "",
+  "AI_API_KEY": "csk-pw3tx6433hykcn24vjtmyk8fwnjpc6xv5p4434v5nvmcndkn",
   "CEREBRAS_API_URL": "https://api.cerebras.ai/v1/chat/completions"
 }
