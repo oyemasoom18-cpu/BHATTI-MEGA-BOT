@@ -50,7 +50,7 @@ module.exports = {
       api.sendMessage(
         `╭─── « 𝗔𝗖𝗖𝗢𝗨𝗡𝗧 𝗢𝗣𝗘𝗡𝗜𝗡𝗚 » ───⟡\n` +
         `│\n` +
-        `│ 🏦 SARDAR RDX BOT mein khush aamdeed!\n` +
+        `│ 🏦 DANIYAL BHATTI BOT mein khush aamdeed!\n` +
         `│\n` +
         `│ 📋 Step [ 𝟭 / 𝟮 ]\n` +
         `│\n` +
