@@ -66,7 +66,7 @@ module.exports = {
 
       const timeStr = moment().tz(config.TIMEZONE || 'Asia/Karachi').format('hh:mm:ss A');
       const dateStr = moment().tz(config.TIMEZONE || 'Asia/Karachi').format('DD/MM/YYYY');
-      const botName = config.BOTNAME || 'SARDAR RDX';
+      const botName = config.BOTNAME || 'DANIYAL BHATTI';
 
       const uniqueCmds = new Set();
       if (client?.commands) {
@@ -116,7 +116,7 @@ module.exports = {
 
       await api.sendMessage({
         body:
-          `╭─── « ✨ RDX BOT » ───⟡\n` +
+          `╭─── « ✨ DANI BOT » ───⟡\n` +
           `│\n` +
           `│ ◈ ${bold('Bot')}      : ${botName}\n` +
           `│ ◈ ${bold('Uptime')}  : ${uptStr}\n` +
@@ -127,7 +127,7 @@ module.exports = {
           `│ ┣ 📂 Commands : ${cmdCount}\n` +
           `│ ┗ ⚡ Events   : ${evtCount}\n` +
           `│\n` +
-          `│ 👑 SARDAR RDX BOT\n` +
+          `│ 👑 DANIYAL BHATTI BOT\n` +
           `╰───────────────⟡`,
         attachment: fs.createReadStream(outputPath)
       }, threadID, () => {
