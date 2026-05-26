@@ -49,9 +49,9 @@ module.exports = {
       `│ ◈ 📅 Date   : ${time}\n` +
       `│ ◈ 💾 RAM    : ${memMB} / ${totalMB} MB\n` +
       `│ ◈ 🖥️ Node   : ${process.version}\n` +
-      `│ ◈ 🌟 Owner  : SARDAR RDX\n` +
+      `│ ◈ 🌟 Owner  : DANIYAL BHATTI\n` +
       `│\n` +
-      `│ 👑 SARDAR RDX BOT\n` +
+      `│ 👑 DANIYAL BHATTI BOT\n` +
       `╰───────────────⟡`,
       sent.messageID
     );
